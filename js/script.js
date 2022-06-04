@@ -16,7 +16,7 @@ for (let i=1;i <=10;i++){
     
 
     container.appendChild(titulo);
-    container.appendChild(subtitulo);
+    container.appendChild(subtitulo); 
     container.appendChild(image);
 
     image.height=200;
